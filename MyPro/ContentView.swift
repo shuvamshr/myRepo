@@ -12,7 +12,9 @@ struct ContentView: View {
         HStack {
             Image(systemName: "heart.fill")
                 .foregroundColor(.pink)
+
             Text("I am Shuvam")
+
         }
         .padding()
     }
